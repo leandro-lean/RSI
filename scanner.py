@@ -119,8 +119,8 @@ def get_last_closed_bar_end_utc(schedule_map: Dict, now_utc: datetime) -> Option
 
     for d in session_dates:
         open_utc, close_utc = schedule_map[d]
-        open_dt = open_utc.to_pydatetime()
-        close_dt = close_utc.to_pydatetime()
+        open_dt = open_utc.to_pydatetime()    # tz-aware (UTC)
+        close_dt = close_utc.to_pydatetime()  # tz-aware (UTC)
 
         # Si aún no llegamos a la apertura de esa sesión, seguir retrocediendo
         if effective_now < open_dt:
@@ -140,7 +140,13 @@ def get_last_closed_bar_end_utc(schedule_map: Dict, now_utc: datetime) -> Option
         if bar_end > close_dt:
             bar_end = close_dt
 
-        return pd.Timestamp(bar_end, tz=timezone.utc)
+        # Convertir a pandas Timestamp en UTC sin pasar tz= si ya es tz-aware
+        ts = pd.Timestamp(bar_end)
+        if ts.tz is None:
+            ts = ts.tz_localize(timezone.utc)
+        else:
+            ts = ts.tz_convert(timezone.utc)
+        return ts
 
     return None
 
