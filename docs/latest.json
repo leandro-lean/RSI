@@ -1,0 +1,13 @@
+{
+  "as_of_bar_end_utc": "",
+  "as_of_bar_end_et": "",
+  "updated_utc": "2025-12-28T17:46:12.163346+00:00",
+  "oversold": [],
+  "overbought": [],
+  "errors": [
+    {
+      "ticker": "ALL",
+      "reason": "Market closed or first 30m bar not closed yet"
+    }
+  ]
+}
