@@ -1,13 +1,239 @@
 {
-  "as_of_bar_end_utc": "",
-  "as_of_bar_end_et": "",
-  "updated_utc": "2025-12-28T17:46:12.163346+00:00",
-  "oversold": [],
-  "overbought": [],
+  "as_of_bar_end_utc": "2025-12-26T21:00:00+00:00",
+  "as_of_bar_end_et": "2025-12-26 16:00:00 EST",
+  "updated_utc": "2025-12-28T18:24:10.333385+00:00",
+  "oversold": [
+    {
+      "ticker": "NSANY",
+      "rsi": 13.669514531657398,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 4.87
+    },
+    {
+      "ticker": "SH",
+      "rsi": 23.92305154867819,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 35.58
+    },
+    {
+      "ticker": "PLTR",
+      "rsi": 24.987222113469315,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 188.74
+    },
+    {
+      "ticker": "RGTI",
+      "rsi": 25.4540429564848,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 22.39
+    },
+    {
+      "ticker": "ASTS",
+      "rsi": 27.374588893401082,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 71.96
+    }
+  ],
+  "overbought": [
+    {
+      "ticker": "SLV",
+      "rsi": 87.32094610146804,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 71.12
+    },
+    {
+      "ticker": "TSM",
+      "rsi": 79.33401956551292,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 302.96
+    },
+    {
+      "ticker": "NKE",
+      "rsi": 78.42740640088823,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 60.915
+    },
+    {
+      "ticker": "ITUB",
+      "rsi": 77.65018454225424,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 7.31
+    },
+    {
+      "ticker": "IP",
+      "rsi": 77.4630977833564,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 39.89
+    },
+    {
+      "ticker": "KEP",
+      "rsi": 77.34801589128777,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 17.08
+    },
+    {
+      "ticker": "XLB",
+      "rsi": 75.77266414744952,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 46.12
+    },
+    {
+      "ticker": "BCS",
+      "rsi": 74.88059412243238,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 25.75
+    },
+    {
+      "ticker": "MRK",
+      "rsi": 74.35819479583725,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 106.81
+    },
+    {
+      "ticker": "SPGI",
+      "rsi": 74.29354281566464,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 529.47
+    },
+    {
+      "ticker": "HSBC",
+      "rsi": 74.00625966505822,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 79.965
+    },
+    {
+      "ticker": "TGT",
+      "rsi": 73.65260383842946,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 99.56
+    },
+    {
+      "ticker": "ORANY",
+      "rsi": 73.10294260434668,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 16.61
+    },
+    {
+      "ticker": "LYG",
+      "rsi": 72.79491231070858,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 5.335
+    },
+    {
+      "ticker": "UNH",
+      "rsi": 72.5906797457331,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 331.87
+    },
+    {
+      "ticker": "MMM",
+      "rsi": 72.49260870234392,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 162.085
+    },
+    {
+      "ticker": "VEA",
+      "rsi": 72.32756968630278,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 62.805
+    },
+    {
+      "ticker": "JCI",
+      "rsi": 71.64357519526743,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 122.07
+    },
+    {
+      "ticker": "TMUS",
+      "rsi": 71.5562733973728,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 200.98
+    },
+    {
+      "ticker": "IFF",
+      "rsi": 71.29871649326219,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 67.47
+    },
+    {
+      "ticker": "VZ",
+      "rsi": 71.2935659246736,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 40.495
+    },
+    {
+      "ticker": "AZN",
+      "rsi": 71.23304547696398,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 92.91
+    },
+    {
+      "ticker": "PHG",
+      "rsi": 70.96792167392361,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 27.105
+    },
+    {
+      "ticker": "EA",
+      "rsi": 70.94715422612931,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 204.76
+    },
+    {
+      "ticker": "FXI",
+      "rsi": 70.90478807051711,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 38.93
+    },
+    {
+      "ticker": "INFY",
+      "rsi": 70.88430959148796,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 18.81
+    },
+    {
+      "ticker": "DOW",
+      "rsi": 70.74985960013079,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 23.285
+    },
+    {
+      "ticker": "RIO",
+      "rsi": 70.49975955866209,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 82.23
+    },
+    {
+      "ticker": "FDX",
+      "rsi": 70.42019306698687,
+      "bar_end_et": "2025-12-26 16:00:00 EST",
+      "close": 296.39
+    }
+  ],
   "errors": [
     {
-      "ticker": "ALL",
-      "reason": "Market closed or first 30m bar not closed yet"
+      "ticker": "TIIAY",
+      "reason": "Missing target bar"
+    },
+    {
+      "ticker": "YY",
+      "reason": "No Close series"
+    },
+    {
+      "ticker": "ADS",
+      "reason": "No Close series"
+    },
+    {
+      "ticker": "YZCAY",
+      "reason": "Missing target bar"
+    },
+    {
+      "ticker": "ELP",
+      "reason": "Missing target bar"
+    },
+    {
+      "ticker": "ADGO",
+      "reason": "No Close series"
     }
   ]
 }
