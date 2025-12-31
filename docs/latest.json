@@ -1,124 +1,144 @@
 {
-  "as_of_bar_end_utc": "2025-12-31T19:00:00+00:00",
-  "as_of_bar_end_et": "2025-12-31 14:00:00 EST",
-  "updated_utc": "2025-12-31T19:20:04.520444+00:00",
+  "as_of_bar_end_utc": "2025-12-31T19:30:00+00:00",
+  "as_of_bar_end_et": "2025-12-31 14:30:00 EST",
+  "updated_utc": "2025-12-31T19:34:23.367774+00:00",
   "oversold": [
     {
+      "ticker": "MRNA",
+      "rsi": 20.499853871434524,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 29.435
+    },
+    {
       "ticker": "IBM",
-      "rsi": 17.911745536404183,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 296.655
+      "rsi": 21.83614678894918,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 297.01
     },
     {
       "ticker": "SHOP",
-      "rsi": 22.513627167732793,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 161.96
-    },
-    {
-      "ticker": "CX",
-      "rsi": 24.190017001069947,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 11.535
+      "rsi": 21.845542087503148,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 161.8163
     },
     {
       "ticker": "PLTR",
-      "rsi": 24.322859884455596,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 179.08
-    },
-    {
-      "ticker": "MRNA",
-      "rsi": 24.479190670695303,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 29.6899
+      "rsi": 21.932496119100733,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 178.435
     },
     {
       "ticker": "CRWV",
-      "rsi": 25.099489202682264,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 71.95
+      "rsi": 21.965331391239005,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 71.4
     },
     {
-      "ticker": "COIN",
-      "rsi": 26.446727054307814,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 228.2
+      "ticker": "CX",
+      "rsi": 22.165862024668556,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 11.515
     },
     {
       "ticker": "LRCX",
-      "rsi": 27.738534011570565,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 172.36
+      "rsi": 22.710113206901497,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 171.61
+    },
+    {
+      "ticker": "AMAT",
+      "rsi": 23.21939496622926,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 257.22
+    },
+    {
+      "ticker": "COIN",
+      "rsi": 23.88025895648768,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 227.39
     },
     {
       "ticker": "TSLA",
-      "rsi": 28.43711273398911,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 453.8201
+      "rsi": 27.295115902029963,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 453.265
     },
     {
       "ticker": "HUT",
-      "rsi": 29.06475573477688,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 46.165
+      "rsi": 27.370098674506878,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 45.96
+    },
+    {
+      "ticker": "GM",
+      "rsi": 27.372327182616132,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 81.56
     },
     {
       "ticker": "TCOM",
-      "rsi": 29.126531210638134,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 71.86
+      "rsi": 27.477921291349077,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 71.8
     },
     {
       "ticker": "URA",
-      "rsi": 29.23893023419008,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 42.795
-    },
-    {
-      "ticker": "PCAR",
-      "rsi": 29.372671292042938,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 110.18
+      "rsi": 27.530957521964268,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 42.685
     },
     {
       "ticker": "INFY",
-      "rsi": 29.719574250927238,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 17.955
+      "rsi": 27.783103819684953,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 17.9255
+    },
+    {
+      "ticker": "LAC",
+      "rsi": 27.911376353220177,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 4.335
+    },
+    {
+      "ticker": "PCAR",
+      "rsi": 28.5283980482765,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 110.135
+    },
+    {
+      "ticker": "TJX",
+      "rsi": 29.58707655178955,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 154.5
+    },
+    {
+      "ticker": "DD",
+      "rsi": 29.988241675866192,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 40.365
     }
   ],
   "overbought": [
     {
       "ticker": "NKE",
-      "rsi": 81.27368790528773,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 63.855
-    },
-    {
-      "ticker": "VZ",
-      "rsi": 78.88441944789886,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 40.935
+      "rsi": 79.45652686889363,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 63.795
     },
     {
       "ticker": "EA",
-      "rsi": 74.86983677590176,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 204.76
+      "rsi": 75.57102167866613,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 204.78
     },
     {
-      "ticker": "MSI",
-      "rsi": 71.40801693704297,
-      "bar_end_et": "2025-12-31 14:00:00 EST",
-      "close": 384.2
+      "ticker": "VZ",
+      "rsi": 75.22959248097206,
+      "bar_end_et": "2025-12-31 14:30:00 EST",
+      "close": 40.915
     }
   ],
   "errors": [
-    {
-      "ticker": "LND",
-      "reason": "Missing target bar"
-    },
     {
       "ticker": "ORANY",
       "reason": "Missing target bar"
@@ -140,11 +160,11 @@
       "reason": "No Close series"
     },
     {
-      "ticker": "YZCAY",
+      "ticker": "SDA",
       "reason": "Missing target bar"
     },
     {
-      "ticker": "SIEGY",
+      "ticker": "YZCAY",
       "reason": "Missing target bar"
     },
     {
