@@ -1,228 +1,124 @@
 {
-  "as_of_bar_end_utc": "2025-12-31T17:30:00+00:00",
-  "as_of_bar_end_et": "2025-12-31 12:30:00 EST",
-  "updated_utc": "2025-12-31T17:42:18.156333+00:00",
+  "as_of_bar_end_utc": "2025-12-31T18:30:00+00:00",
+  "as_of_bar_end_et": "2025-12-31 13:30:00 EST",
+  "updated_utc": "2025-12-31T18:32:24.338779+00:00",
   "oversold": [
     {
       "ticker": "IBM",
-      "rsi": 15.862208224804633,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 297.2195
-    },
-    {
-      "ticker": "MRNA",
-      "rsi": 16.556230497047963,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 29.59
-    },
-    {
-      "ticker": "CX",
-      "rsi": 19.30235621353583,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 11.52
+      "rsi": 14.1695957362424,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 296.323
     },
     {
       "ticker": "SHOP",
-      "rsi": 21.819252347236798,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 161.96
+      "rsi": 21.807492481828348,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 161.9143
     },
     {
-      "ticker": "HMC",
-      "rsi": 22.48353328461242,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 29.495
-    },
-    {
-      "ticker": "PYPL",
-      "rsi": 24.661211741364312,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 58.435
+      "ticker": "CX",
+      "rsi": 22.54803802289858,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 11.53
     },
     {
       "ticker": "PCAR",
-      "rsi": 24.789655905770246,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 110.13
+      "rsi": 23.787402685371745,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 110.06
     },
     {
-      "ticker": "GM",
-      "rsi": 25.18789386751878,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 81.715
-    },
-    {
-      "ticker": "PAC",
-      "rsi": 25.219303092941203,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 259.59
-    },
-    {
-      "ticker": "CRWV",
-      "rsi": 25.447231476369396,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 72.415
-    },
-    {
-      "ticker": "INFY",
-      "rsi": 25.584742695308876,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 17.94
-    },
-    {
-      "ticker": "TSLA",
-      "rsi": 25.646564021147498,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 454.6
-    },
-    {
-      "ticker": "PKX",
-      "rsi": 25.66955776612653,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 53.08
-    },
-    {
-      "ticker": "EFX",
-      "rsi": 25.777677638149,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 218.255
-    },
-    {
-      "ticker": "JCI",
-      "rsi": 25.964717396740156,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 120.2586
-    },
-    {
-      "ticker": "BABA",
-      "rsi": 26.451680025935914,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 146.01
-    },
-    {
-      "ticker": "RACE",
-      "rsi": 26.52713498213936,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 370.11
-    },
-    {
-      "ticker": "PLTR",
-      "rsi": 26.80585968428791,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 179.71
-    },
-    {
-      "ticker": "XLY",
-      "rsi": 26.88543487570915,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 119.985
-    },
-    {
-      "ticker": "TCOM",
-      "rsi": 27.125625990161467,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 71.842
-    },
-    {
-      "ticker": "SNA",
-      "rsi": 27.308890794421316,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 345.55
-    },
-    {
-      "ticker": "USB",
-      "rsi": 28.251575787865946,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 53.66
-    },
-    {
-      "ticker": "TM",
-      "rsi": 28.299822413600836,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 214.385
-    },
-    {
-      "ticker": "AMX",
-      "rsi": 28.509420387960077,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 20.62
-    },
-    {
-      "ticker": "NOK",
-      "rsi": 28.636668619283526,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 6.4803
+      "ticker": "MRNA",
+      "rsi": 24.216603379252618,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 29.685
     },
     {
       "ticker": "PBI",
-      "rsi": 28.74975220711127,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 10.555
+      "rsi": 24.68805280127509,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 10.5199
     },
     {
-      "ticker": "LRCX",
-      "rsi": 28.99117755802878,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 172.54
+      "ticker": "INFY",
+      "rsi": 24.76766017248545,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 17.925
+    },
+    {
+      "ticker": "PLTR",
+      "rsi": 25.131210568409884,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 179.285
+    },
+    {
+      "ticker": "GM",
+      "rsi": 25.78868315966301,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 81.62
+    },
+    {
+      "ticker": "SNA",
+      "rsi": 27.884440537557396,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 345.43
+    },
+    {
+      "ticker": "EFX",
+      "rsi": 28.24277364177169,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 218.24
     },
     {
       "ticker": "COIN",
-      "rsi": 29.172890447435563,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 229.31
+      "rsi": 28.672261438117204,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 228.83
     },
     {
-      "ticker": "RIO",
-      "rsi": 29.2179052830418,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 80.1
+      "ticker": "LRCX",
+      "rsi": 28.68202948478256,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 172.48
     },
     {
-      "ticker": "TV",
-      "rsi": 29.240891003572955,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 2.88
+      "ticker": "CRWV",
+      "rsi": 28.985333395669855,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 72.5065
     },
     {
-      "ticker": "KEP",
-      "rsi": 29.778089243740652,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 16.5
-    },
-    {
-      "ticker": "GLD",
-      "rsi": 29.876110591605453,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 397.025
+      "ticker": "TCOM",
+      "rsi": 29.3995859703155,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 71.87
     }
   ],
   "overbought": [
     {
       "ticker": "NKE",
-      "rsi": 82.20918513555137,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 63.77
+      "rsi": 82.7050993251892,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 63.9039
     },
     {
       "ticker": "VZ",
-      "rsi": 76.08000953476723,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 40.8798
+      "rsi": 78.15008209639316,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 40.9201
     },
     {
       "ticker": "MSI",
-      "rsi": 73.07521101076547,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 383.76
-    },
-    {
-      "ticker": "TSM",
-      "rsi": 70.24412894450546,
-      "bar_end_et": "2025-12-31 12:30:00 EST",
-      "close": 306.36
+      "rsi": 70.18209654351755,
+      "bar_end_et": "2025-12-31 13:30:00 EST",
+      "close": 383.95
     }
   ],
   "errors": [
+    {
+      "ticker": "LND",
+      "reason": "Missing target bar"
+    },
     {
       "ticker": "ORANY",
       "reason": "Missing target bar"
@@ -244,11 +140,15 @@
       "reason": "No Close series"
     },
     {
-      "ticker": "SDA",
+      "ticker": "GPRK",
       "reason": "Missing target bar"
     },
     {
       "ticker": "YZCAY",
+      "reason": "Missing target bar"
+    },
+    {
+      "ticker": "SIEGY",
       "reason": "Missing target bar"
     },
     {
