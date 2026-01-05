@@ -2,8 +2,13 @@ name: RSI 30m Scanner
 
 on:
   schedule:
-    - cron: "*/5 13-23 * * 1-5"
+    # Evita minutos 0/5/10... (picos). Corre en 02,07,12,... (UTC) lun-vie
+    - cron: "2-59/5 13-23 * * 1-5"
   workflow_dispatch:
+
+concurrency:
+  group: rsi-scan
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -11,6 +16,7 @@ permissions:
 jobs:
   run-scan:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -19,6 +25,14 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
 
       - name: Install dependencies
         run: |
