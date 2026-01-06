@@ -1,8 +1,6 @@
 name: RSI 30m Scanner
 
 on:
-  schedule:
-    - cron: "2-59/5 13-23 * * 1-5"
   workflow_dispatch:
 
 concurrency:
@@ -16,6 +14,7 @@ jobs:
   run-scan:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
